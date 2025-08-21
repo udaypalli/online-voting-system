@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-brightgreen)
 ![Tomcat](https://img.shields.io/badge/Server-Apache%20Tomcat-lightgrey)
 
-> A **secure, web-based voting platform** developed using **Java, JSP, Servlets, and MySQL** to conduct elections digitally with transparency and efficiency.
+> A **secure, web-based voting platform** developed using **Java, JSP and MySQL** to conduct elections digitally with transparency and efficiency.
 
 ---
 
